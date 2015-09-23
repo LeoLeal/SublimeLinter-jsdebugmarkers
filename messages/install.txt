@@ -1,0 +1,4 @@
+SublimeLinter-jsdebugmarkers
+-------------------------------
+This linter plugin for SublimeLinter highlights debugging code markers in your Javascript code
+such as console.log, console.error, debugger and alert, so It makes It easy to spot those pesky debugging lines you add and might forget where you put them.
